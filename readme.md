@@ -73,13 +73,17 @@ hoặc đưa thêm các tài liệu khác sao cho phù hợp là được.
     Lựa chọn cách đơn giản cho các bạn sinh viên nhất, tránh việc cài đặt môi trường thực hành phức tạp ảnh hưởng đến motivation của sinh viên).
 
     Trong 2 tuần đầu sinh viên chỉ nên dùng PHP commandline nên mentor sẽ giới thiệu cho sinh viên về cài đặt và sử dụng môi trường thực hành.
+
         * Giới thiệu về cài đặt, cách dùng php command line và XAMPP.
+
         * Đưa thêm tài liệu hay link giới thiệu về Linux, và cách dựng 1 môi LAMP, LEMP trên linux dùng vagrant hay Docker.
+
         * Giới thiệu về debug cơ bản.
+
 
 2. Cấu trúc 1 file và syntax trong PHP.
 
-3. biến (variable) và cách khai báo.
+3. Biến (variable) và cách khai báo.
 
 4. Các kiểu dữ liệu cơ bản trong PHP (scale types, collection types)
 
@@ -139,9 +143,7 @@ hoặc đưa thêm các tài liệu khác sao cho phù hợp là được.
 
 6. Basic MySql and PHP PDO.
 
-    Tài liệu tham khảo.
-
-    [MySqlTutorial](http://www.mysqltutorial.org)
+    Tài liệu tham khảo. [MySqlTutorial](http://www.mysqltutorial.org)
 
     Các phần cần nắm được trong phần này.
 
@@ -164,7 +166,7 @@ hoặc đưa thêm các tài liệu khác sao cho phù hợp là được.
         * Group kết quả.
         * Lấy dữ liệu từ nhiều bảng dùng join.
 
-    * Cách thao tác databse dùng PHP (PDO).
+    * Cách thao tác database dùng PHP (PDO).
 
 
 #### Advanced PHP (Phần này list ra các phần cho sinh viên tự tìm hiểu thêm)
